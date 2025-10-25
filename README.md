@@ -8,7 +8,7 @@
 
 fig#int g#/#
 
-fig#ip address 192.168.1.1 255.255.255.0
+if#ip address 192.168.1.1 255.255.255.0
 
 fig#ip dhcp excluded-address 192.168.1.1 192.168.1.0 192.168.1.255
 
